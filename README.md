@@ -53,5 +53,3 @@ Import Mode
 
 ## Files
 - `Commercial_Performance.pbix` — Power BI report with data model, Power Query transformations, DAX measures, and report pages.
-- `overview.png` — main dashboard.
-- `data-model.png` — data model and relationships.
